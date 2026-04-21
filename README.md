@@ -4,7 +4,7 @@
 
 I am a professional Web Developer based in Rajkot, Gujarat, building high-performance web applications and custom content management solutions. I specialize in bridging the gap between robust backend architecture and seamless frontend user experiences.
 
-Currently at Qrolic Technology, my focus is on deep system performance, complex WordPress engineering, and building secure, scalable backend architectures.
+My ongoing focus is on deep system performance, complex WordPress engineering, and building secure, scalable backend architectures.
 
 -----
 
